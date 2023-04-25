@@ -36,8 +36,7 @@ describe('Generate top movies algorithm', () => {
         runtime: '130',
         genres: ['Crime', 'Drama'],
         director: 'Fernando Meirelles, Kátia Lund',
-        actors:
-          'Alexandre Rodrigues, Leandro Firmino, Phellipe Haagensen, Douglas Silva',
+        actors: 'Alexandre Rodrigues, Leandro Firmino, Phellipe Haagensen, Douglas Silva',
         plot: 'Two boys growing up in a violent neighborhood of Rio de Janeiro take different paths: one becomes a photographer, the other a drug dealer.',
         posterUrl:
           'https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4ODQ3ODkzNV5BMl5BanBnXkFtZTYwOTc4NDI3._V1_SX300.jpg',
@@ -61,8 +60,7 @@ describe('Generate top movies algorithm', () => {
         runtime: '170',
         genres: ['Crime', 'Drama'],
         director: 'Brian De Palma',
-        actors:
-          'Al Pacino, Steven Bauer, Michelle Pfeiffer, Mary Elizabeth Mastrantonio',
+        actors: 'Al Pacino, Steven Bauer, Michelle Pfeiffer, Mary Elizabeth Mastrantonio',
         plot: 'In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.',
         posterUrl:
           'https://images-na.ssl-images-amazon.com/images/M/MV5BMjAzOTM4MzEwNl5BMl5BanBnXkFtZTgwMzU1OTc1MDE@._V1_SX300.jpg',
@@ -86,8 +84,7 @@ describe('Generate top movies algorithm', () => {
         runtime: '119',
         genres: ['Crime', 'Drama'],
         director: 'Tony Kaye',
-        actors:
-          "Edward Norton, Edward Furlong, Beverly D'Angelo, Jennifer Lien",
+        actors: "Edward Norton, Edward Furlong, Beverly D'Angelo, Jennifer Lien",
         plot: 'A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.',
         posterUrl:
           'https://images-na.ssl-images-amazon.com/images/M/MV5BZjA0MTM4MTQtNzY5MC00NzY3LWI1ZTgtYzcxMjkyMzU4MDZiXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg',
@@ -147,8 +144,7 @@ describe('Generate top movies algorithm', () => {
         runtime: '141',
         genres: ['Drama'],
         director: 'Paolo Sorrentino',
-        actors:
-          'Toni Servillo, Carlo Verdone, Sabrina Ferilli, Carlo Buccirosso',
+        actors: 'Toni Servillo, Carlo Verdone, Sabrina Ferilli, Carlo Buccirosso',
         plot: 'Jep Gambardella has seduced his way through the lavish nightlife of Rome for decades, but after his 65th birthday and a shock from the past, Jep looks past the nightclubs and parties to find a timeless landscape of absurd, exquisite beauty.',
         posterUrl:
           'https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ0ODg1OTQ2Nl5BMl5BanBnXkFtZTgwNTc2MDY1MDE@._V1_SX300.jpg',
@@ -172,8 +168,7 @@ describe('Generate top movies algorithm', () => {
         runtime: '133',
         genres: ['Drama'],
         director: 'Milos Forman',
-        actors:
-          'Michael Berryman, Peter Brocco, Dean R. Brooks, Alonzo Brown',
+        actors: 'Michael Berryman, Peter Brocco, Dean R. Brooks, Alonzo Brown',
         plot: 'A criminal pleads insanity after getting into trouble again and once in the mental institution rebels against the oppressive nurse and rallies up the scared patients.',
         posterUrl:
           'https://images-na.ssl-images-amazon.com/images/M/MV5BYmJkODkwOTItZThjZC00MTE0LWIxNzQtYTM3MmQwMGI1OWFiXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg',
@@ -197,8 +192,7 @@ describe('Generate top movies algorithm', () => {
         runtime: '101',
         genres: ['Drama'],
         director: 'Sofia Coppola',
-        actors:
-          'Scarlett Johansson, Bill Murray, Akiko Takeshita, Kazuyoshi Minamimagoe',
+        actors: 'Scarlett Johansson, Bill Murray, Akiko Takeshita, Kazuyoshi Minamimagoe',
         plot: 'A faded movie star and a neglected young woman form an unlikely bond after crossing paths in Tokyo.',
         posterUrl:
           'https://images-na.ssl-images-amazon.com/images/M/MV5BMTI2NDI5ODk4N15BMl5BanBnXkFtZTYwMTI3NTE3._V1_SX300.jpg',
@@ -210,8 +204,7 @@ describe('Generate top movies algorithm', () => {
         runtime: '165',
         genres: ['Drama'],
         director: 'Richard Linklater',
-        actors:
-          'Ellar Coltrane, Patricia Arquette, Elijah Smith, Lorelei Linklater',
+        actors: 'Ellar Coltrane, Patricia Arquette, Elijah Smith, Lorelei Linklater',
         plot: 'The life of Mason, from early childhood to his arrival at college.',
         posterUrl:
           'https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzNDc2MDc0N15BMl5BanBnXkFtZTgwOTcwMDQ5MTE@._V1_SX300.jpg',
@@ -242,8 +235,7 @@ describe('Generate top movies algorithm', () => {
         runtime: '130',
         genres: ['Crime', 'Drama'],
         director: 'Fernando Meirelles, Kátia Lund',
-        actors:
-          'Alexandre Rodrigues, Leandro Firmino, Phellipe Haagensen, Douglas Silva',
+        actors: 'Alexandre Rodrigues, Leandro Firmino, Phellipe Haagensen, Douglas Silva',
         plot: 'Two boys growing up in a violent neighborhood of Rio de Janeiro take different paths: one becomes a photographer, the other a drug dealer.',
         posterUrl:
           'https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4ODQ3ODkzNV5BMl5BanBnXkFtZTYwOTc4NDI3._V1_SX300.jpg',
@@ -267,8 +259,7 @@ describe('Generate top movies algorithm', () => {
         runtime: '170',
         genres: ['Crime', 'Drama'],
         director: 'Brian De Palma',
-        actors:
-          'Al Pacino, Steven Bauer, Michelle Pfeiffer, Mary Elizabeth Mastrantonio',
+        actors: 'Al Pacino, Steven Bauer, Michelle Pfeiffer, Mary Elizabeth Mastrantonio',
         plot: 'In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.',
         posterUrl:
           'https://images-na.ssl-images-amazon.com/images/M/MV5BMjAzOTM4MzEwNl5BMl5BanBnXkFtZTgwMzU1OTc1MDE@._V1_SX300.jpg',
@@ -292,8 +283,7 @@ describe('Generate top movies algorithm', () => {
         runtime: '119',
         genres: ['Crime', 'Drama'],
         director: 'Tony Kaye',
-        actors:
-          "Edward Norton, Edward Furlong, Beverly D'Angelo, Jennifer Lien",
+        actors: "Edward Norton, Edward Furlong, Beverly D'Angelo, Jennifer Lien",
         plot: 'A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.',
         posterUrl:
           'https://images-na.ssl-images-amazon.com/images/M/MV5BZjA0MTM4MTQtNzY5MC00NzY3LWI1ZTgtYzcxMjkyMzU4MDZiXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg',
@@ -341,8 +331,7 @@ describe('Generate top movies algorithm', () => {
         runtime: '141',
         genres: ['Drama'],
         director: 'Paolo Sorrentino',
-        actors:
-          'Toni Servillo, Carlo Verdone, Sabrina Ferilli, Carlo Buccirosso',
+        actors: 'Toni Servillo, Carlo Verdone, Sabrina Ferilli, Carlo Buccirosso',
         plot: 'Jep Gambardella has seduced his way through the lavish nightlife of Rome for decades, but after his 65th birthday and a shock from the past, Jep looks past the nightclubs and parties to find a timeless landscape of absurd, exquisite beauty.',
         posterUrl:
           'https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ0ODg1OTQ2Nl5BMl5BanBnXkFtZTgwNTc2MDY1MDE@._V1_SX300.jpg',
@@ -366,8 +355,7 @@ describe('Generate top movies algorithm', () => {
         runtime: '133',
         genres: ['Drama'],
         director: 'Milos Forman',
-        actors:
-          'Michael Berryman, Peter Brocco, Dean R. Brooks, Alonzo Brown',
+        actors: 'Michael Berryman, Peter Brocco, Dean R. Brooks, Alonzo Brown',
         plot: 'A criminal pleads insanity after getting into trouble again and once in the mental institution rebels against the oppressive nurse and rallies up the scared patients.',
         posterUrl:
           'https://images-na.ssl-images-amazon.com/images/M/MV5BYmJkODkwOTItZThjZC00MTE0LWIxNzQtYTM3MmQwMGI1OWFiXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg',
@@ -391,8 +379,7 @@ describe('Generate top movies algorithm', () => {
         runtime: '101',
         genres: ['Drama'],
         director: 'Sofia Coppola',
-        actors:
-          'Scarlett Johansson, Bill Murray, Akiko Takeshita, Kazuyoshi Minamimagoe',
+        actors: 'Scarlett Johansson, Bill Murray, Akiko Takeshita, Kazuyoshi Minamimagoe',
         plot: 'A faded movie star and a neglected young woman form an unlikely bond after crossing paths in Tokyo.',
         posterUrl:
           'https://images-na.ssl-images-amazon.com/images/M/MV5BMTI2NDI5ODk4N15BMl5BanBnXkFtZTYwMTI3NTE3._V1_SX300.jpg',
@@ -404,8 +391,7 @@ describe('Generate top movies algorithm', () => {
         runtime: '165',
         genres: ['Drama'],
         director: 'Richard Linklater',
-        actors:
-          'Ellar Coltrane, Patricia Arquette, Elijah Smith, Lorelei Linklater',
+        actors: 'Ellar Coltrane, Patricia Arquette, Elijah Smith, Lorelei Linklater',
         plot: 'The life of Mason, from early childhood to his arrival at college.',
         posterUrl:
           'https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzNDc2MDc0N15BMl5BanBnXkFtZTgwOTcwMDQ5MTE@._V1_SX300.jpg',
@@ -424,8 +410,7 @@ describe('Generate top movies algorithm', () => {
         runtime: '141',
         genres: ['Drama'],
         director: 'Paolo Sorrentino',
-        actors:
-          'Toni Servillo, Carlo Verdone, Sabrina Ferilli, Carlo Buccirosso',
+        actors: 'Toni Servillo, Carlo Verdone, Sabrina Ferilli, Carlo Buccirosso',
         plot: 'Jep Gambardella has seduced his way through the lavish nightlife of Rome for decades, but after his 65th birthday and a shock from the past, Jep looks past the nightclubs and parties to find a timeless landscape of absurd, exquisite beauty.',
         posterUrl:
           'https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ0ODg1OTQ2Nl5BMl5BanBnXkFtZTgwNTc2MDY1MDE@._V1_SX300.jpg',
@@ -449,8 +434,7 @@ describe('Generate top movies algorithm', () => {
         runtime: '133',
         genres: ['Drama'],
         director: 'Milos Forman',
-        actors:
-          'Michael Berryman, Peter Brocco, Dean R. Brooks, Alonzo Brown',
+        actors: 'Michael Berryman, Peter Brocco, Dean R. Brooks, Alonzo Brown',
         plot: 'A criminal pleads insanity after getting into trouble again and once in the mental institution rebels against the oppressive nurse and rallies up the scared patients.',
         posterUrl:
           'https://images-na.ssl-images-amazon.com/images/M/MV5BYmJkODkwOTItZThjZC00MTE0LWIxNzQtYTM3MmQwMGI1OWFiXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg',
@@ -474,8 +458,7 @@ describe('Generate top movies algorithm', () => {
         runtime: '101',
         genres: ['Drama'],
         director: 'Sofia Coppola',
-        actors:
-          'Scarlett Johansson, Bill Murray, Akiko Takeshita, Kazuyoshi Minamimagoe',
+        actors: 'Scarlett Johansson, Bill Murray, Akiko Takeshita, Kazuyoshi Minamimagoe',
         plot: 'A faded movie star and a neglected young woman form an unlikely bond after crossing paths in Tokyo.',
         posterUrl:
           'https://images-na.ssl-images-amazon.com/images/M/MV5BMTI2NDI5ODk4N15BMl5BanBnXkFtZTYwMTI3NTE3._V1_SX300.jpg',
@@ -487,8 +470,7 @@ describe('Generate top movies algorithm', () => {
         runtime: '165',
         genres: ['Drama'],
         director: 'Richard Linklater',
-        actors:
-          'Ellar Coltrane, Patricia Arquette, Elijah Smith, Lorelei Linklater',
+        actors: 'Ellar Coltrane, Patricia Arquette, Elijah Smith, Lorelei Linklater',
         plot: 'The life of Mason, from early childhood to his arrival at college.',
         posterUrl:
           'https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzNDc2MDc0N15BMl5BanBnXkFtZTgwOTcwMDQ5MTE@._V1_SX300.jpg',
@@ -500,6 +482,6 @@ describe('Generate top movies algorithm', () => {
 
   it('should return random movie when empty array provided', () => {
     const foundMovies = getFilteredMovies({ genres: [] })
-    expect(foundMovies).toHaveLength(1);
+    expect(foundMovies).toHaveLength(1)
   })
 })
