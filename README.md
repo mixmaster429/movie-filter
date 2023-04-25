@@ -1,32 +1,19 @@
-## Energy Web - JavaScript/TypeScript Developer recruitment task
+## Algorithm
 
-Hey there!
+- Check if the provided array of genres is empty. If it is, then select a random movie from the list and return it as an array with a single movie.
+- If the provided array of genres is not empty, then create three empty arrays for movies that have all three genres, two genres, and one genre respectively.
+- Loop through each movie in the list and check if it has all three genres. If it does, add it to the array for movies with all three genres.
+- If a movie does not have all three genres, then check if it has two genres. If it does, add it to the array for movies with two genres.
+- If a movie does not have two genres, then check if it has one genre. If it does, add it to the array for movies with one genre.
+- Concatenate the three arrays in the order of movies with all three genres, two genres, and one genre.
+- Return the concatenated array.
 
-Not so long ago we decided create a catalogue of our favorite movies (./src/db.json) as json. It is hard to find things there, so we would like to build an algorithm to make it easier.
+## Complexity
 
-## Before start
-1. Please remove `.git` folder and initialize your own repository using this repository as a starting point
-2. Please install all dependencies using `npm i`
+### Time Complexity:
 
+O(n\*m), where n is the number of movies in the list and m is the maximum number of genres in the provided array. The loop through each movie has a time complexity of O(n), and the set operations have a time complexity of O(m). Find operations have a time complexity of O(n), but they are performed on a smaller subset of movies. Therefore, the overall time complexity is dominated by the loop through each movie.
 
-## TODO'S
-1. Write an algorithm that would help us find the right movie: 
-  * If we provide genres [Comedy, Fantasy, Crime] then the top hits should be movies that have all three of them, then there should be movies that have one of [Comedy, Fantasy], [Comedy, Crime], [Fantasy, Crime] and then those with Comedy only, Fantasy only and Crime only. Similarly applies when the requested array of genres is shorter.
+### Space Complexity:
 
-  * Of course we don't want to have duplicates.
-
-  * If we provide an empty list, then we should get a single random movie. (return type should be a array with single movie)
-
-2. The algorithm needs to as efficient as possible, so please also provide its complexity using "Big O" notation with some explanation how you've calculated it. 
-
-To make it easier we've also provided a set of tests to make sure your solution works as expected. You can find them in `./src/__tests__`. To run them just use:
-```bash
-npm t
-```
-
-### Rules
-* Please not use any outside library like `lodash` etc.
-* We require code in git repository
-* All tests needs to pass
-
-
+O(n), where n is the number of movies in the list. The space complexity is dominated by the storage of the movies array. The sets and result array have a space complexity of O(m) at most, where m is the maximum number of genres in the provided array.
